@@ -7,4 +7,4 @@
 
 * The Figures folder contains all the figures created by the historical charts scatterplots script.R file. The figures are all in SVG format. 
 
-* The tables folder contains all the summary statistics and regression tables created by the by analysis and regressions main script.R file.  
+* The Tables folder contains all the summary statistics and regression tables created by the by analysis and regressions main script.R file.  
